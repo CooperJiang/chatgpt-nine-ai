@@ -22,8 +22,8 @@ NiniAi v1.0版本现已上线【20230515】
 #### 敏感词回复及自动回复
 ![](https://public-1300678944.cos.ap-shanghai.myqcloud.com/blog/1684134284262image.png)
 #### Midjourney绘画
-![](https://public-1300678944.cos.ap-shanghai.myqcloud.com/blog/1684134537631image.png)
 ![](https://public-1300678944.cos.ap-shanghai.myqcloud.com/blog/1684134611336image.png)
+![](https://public-1300678944.cos.ap-shanghai.myqcloud.com/blog/1684134537631image.png)
 #### openai DALL-E2绘画
 ![](https://public-1300678944.cos.ap-shanghai.myqcloud.com/blog/1684134407124image.png)
 #### 自定义公告
