@@ -1,0 +1,1 @@
+{"version":3,"file":"generateCrami.js","sourceRoot":"","sources":["../../../src/common/utils/generateCrami.ts"],"names":[],"mappings":";;;AAAA,+BAAoC;AAEpC,SAAgB,iBAAiB;IAChC,MAAM,IAAI,GAAG,IAAA,SAAM,GAAE,CAAC,OAAO,CAAC,IAAI,EAAE,EAAE,CAAC,CAAC,KAAK,CAAC,CAAC,EAAE,EAAE,CAAC,CAAC;IACrD,OAAO,IAAI,CAAC;AACb,CAAC;AAHD,8CAGC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"mjDraw.dto.js","sourceRoot":"","sources":["../../../../src/modules/mj/dto/mjDraw.dto.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,qDAA4C;AAC5C,6CAA8C;AAG9C,MAAa,SAAS;CASrB;AARC;IAAC,IAAA,qBAAW,EAAC;QACX,OAAO,EACL,mLAAmL;QACrL,WAAW,EAAE,QAAQ;QACrB,QAAQ,EAAE,IAAI;KACf,CAAC;IACD,IAAA,2BAAS,EAAC,EAAE,OAAO,EAAE,aAAa,EAAE,CAAC;;yCACvB;AARjB,8BASC"}

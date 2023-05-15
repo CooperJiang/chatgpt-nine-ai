@@ -1,0 +1,1 @@
+{"version":3,"file":"deleteCats.dto.js","sourceRoot":"","sources":["../../../../src/modules/app/dto/deleteCats.dto.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,6CAA8C;AAC9C,qDAA2C;AAE3C,MAAa,aAAa;CAIzB;AAHA;IAAC,IAAA,qBAAW,EAAC,EAAE,OAAO,EAAE,CAAC,EAAE,WAAW,EAAE,YAAY,EAAE,QAAQ,EAAE,IAAI,EAAE,CAAC;IACtE,IAAA,0BAAQ,EAAC,EAAE,EAAE,EAAE,OAAO,EAAE,aAAa,EAAE,CAAC;;yCAC9B;AAHZ,sCAIC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"deleteApp.dto.js","sourceRoot":"","sources":["../../../../src/modules/app/dto/deleteApp.dto.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,6CAA8C;AAC9C,qDAA2C;AAE3C,MAAa,YAAY;CAIxB;AAHA;IAAC,IAAA,qBAAW,EAAC,EAAE,OAAO,EAAE,CAAC,EAAE,WAAW,EAAE,WAAW,EAAE,QAAQ,EAAE,IAAI,EAAE,CAAC;IACrE,IAAA,0BAAQ,EAAC,EAAE,EAAE,EAAE,OAAO,EAAE,aAAa,EAAE,CAAC;;wCAC9B;AAHZ,oCAIC"}
