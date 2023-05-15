@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper-c27b6911.js";import{e as r,m as c}from"./index-2a868905.js";const n={};function o(t,s){return c(),r("div",null," 应用商店 ")}const f=e(n,[["render",o]]);export{f as default};

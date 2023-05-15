@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans">
+
+<head>
+	<meta charset="UTF-8">
+	<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+	<meta content="yes" name="apple-mobile-web-app-capable" />
+	<link rel="apple-touch-icon" href="/favicon.ico">
+	<meta name="viewport"
+		content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, viewport-fit=cover" />
+	<title>Ai</title>
+  <script type="module" crossorigin src="/assets/index-2a868905.js"></script>
+  <link rel="stylesheet" href="/assets/index-d75e9a67.css">
+</head>
+
+<body class="dark:bg-black">
+	<div id="app">
+		<style>
+			* {
+				box-sizing: border-box;
+			}
+
+
+			.main-container {
+				width: 100vw;
+				height: 100vh;
+				display: flex;
+				justify-content: center;
+				align-items: center;
+			}
+
+
+
+			body {
+				background: #fff;
+			}
+
+			#load {
+				position: absolute;
+				width: 600px;
+				height: 36px;
+				left: 50%;
+				top: 40%;
+				margin-left: -300px;
+				overflow: visible;
+				-webkit-user-select: none;
+				-moz-user-select: none;
+				user-select: none;
+				cursor: default;
+				font-size: 30px;
+			}
+
+			#load div {
+				position: absolute;
+				width: 40px;
+				height: 72px;
+				opacity: 0;
+				font-family: Helvetica, Arial, sans-serif;
+				animation: move 2s linear infinite;
+				-o-animation: move 2s linear infinite;
+				-moz-animation: move 2s linear infinite;
+				-webkit-animation: move 2s linear infinite;
+				transform: rotate(180deg);
+				-o-transform: rotate(180deg);
+				-moz-transform: rotate(180deg);
+				-webkit-transform: rotate(180deg);
+				color: #35C4F0;
+			}
+
+			#load div:nth-child(2) {
+				animation-delay: 0.2s;
+				-o-animation-delay: 0.2s;
+				-moz-animation-delay: 0.2s;
+				-webkit-animation-delay: 0.2s;
+			}
+
+			#load div:nth-child(3) {
+				animation-delay: 0.4s;
+				-o-animation-delay: 0.4s;
+				-webkit-animation-delay: 0.4s;
+			}
+
+			#load div:nth-child(4) {
+				animation-delay: 0.6s;
+				-o-animation-delay: 0.6s;
+				-moz-animation-delay: 0.6s;
+				-webkit-animation-delay: 0.6s;
+			}
+
+			#load div:nth-child(5) {
+				animation-delay: 0.8s;
+				-o-animation-delay: 0.8s;
+				-moz-animation-delay: 0.8s;
+				-webkit-animation-delay: 0.8s;
+			}
+
+			#load div:nth-child(6) {
+				animation-delay: 1s;
+				-o-animation-delay: 1s;
+				-moz-animation-delay: 1s;
+				-webkit-animation-delay: 1s;
+			}
+
+			#load div:nth-child(7) {
+				animation-delay: 1.2s;
+				-o-animation-delay: 1.2s;
+				-moz-animation-delay: 1.2s;
+				-webkit-animation-delay: 1.2s;
+			}
+
+			@keyframes move {
+				0% {
+					left: 0;
+					opacity: 0;
+				}
+
+				35% {
+					left: 41%;
+					transform: rotate(0deg);
+					opacity: 1;
+				}
+
+				65% {
+					left: 59%;
+					transform: rotate(0deg);
+					opacity: 1;
+				}
+
+				100% {
+					left: 100%;
+					transform: rotate(-180deg);
+					opacity: 0;
+				}
+			}
+
+			@media (prefers-color-scheme: dark) {
+				body {
+					background: #121212;
+				}
+			}
+		</style>
+		<div class="main-container">
+			<div id="load">
+				<div>G</div>
+				<div>N</div>
+				<div>I</div>
+				<div>D</div>
+				<div>A</div>
+				<div>O</div>
+				<div>L</div>
+			</div>
+		</div>
+
+	</div>
+	
+	<script>
+		const now = new Date()
+		const hour = now.getHours()
+		if (hour >= 6 && hour <= 20)
+		  document.body.style.backgroundColor = '#fff' // 早上 6 点到晚上 8 点，背景色为白色
+
+		else
+		  document.body.style.backgroundColor = '#000' // 其他时间，背景色为黑色
+	</script>
+</body>
+
+</html>
+
+<script>document.querySelector('html').classList.toggle('loading')
+</script>
